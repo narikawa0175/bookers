@@ -5,10 +5,26 @@
 }
 
 body{
+  margin: 33px;
+  line-height: 18px;
+  color: #333;
+  font-size: 13px;
+  font-family: verdana, arial, helvetica, sans-serif;
+}
+
+h1{
   display: block;
 }
 
-section{
-  line-height: 18px;
+.top-text{
   margin: 33px;
+}
+
+a:hover{
+  background-color: #000;
+  color: #fff;
+}
+
+.top-link{
+  color: #000;
 }
